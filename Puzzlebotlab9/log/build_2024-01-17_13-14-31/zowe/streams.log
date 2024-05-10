@@ -1,0 +1,21 @@
+[12.473s] Invoking command in '/home/puzzlebot/ros2_ws/src/zowe': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/zowe/prefix_override:/home/puzzlebot/ros2_ws/src/install/zowe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/zowe build --build-base /home/puzzlebot/ros2_ws/src/build/zowe/build install --record /home/puzzlebot/ros2_ws/src/build/zowe/install.log --single-version-externally-managed
+[13.717s] running egg_info
+[13.721s] writing ../build/zowe/zowe.egg-info/PKG-INFO
+[13.724s] writing dependency_links to ../build/zowe/zowe.egg-info/dependency_links.txt
+[13.725s] writing entry points to ../build/zowe/zowe.egg-info/entry_points.txt
+[13.725s] writing requirements to ../build/zowe/zowe.egg-info/requires.txt
+[13.726s] writing top-level names to ../build/zowe/zowe.egg-info/top_level.txt
+[13.903s] reading manifest file '../build/zowe/zowe.egg-info/SOURCES.txt'
+[13.909s] writing manifest file '../build/zowe/zowe.egg-info/SOURCES.txt'
+[13.910s] running build
+[13.911s] running build_py
+[13.914s] running install
+[13.917s] running install_lib
+[13.926s] running install_data
+[13.929s] running install_egg_info
+[13.937s] removing '/home/puzzlebot/ros2_ws/src/install/zowe/lib/python3.8/site-packages/zowe-0.0.0-py3.8.egg-info' (and everything under it)
+[13.938s] Copying ../build/zowe/zowe.egg-info to /home/puzzlebot/ros2_ws/src/install/zowe/lib/python3.8/site-packages/zowe-0.0.0-py3.8.egg-info
+[13.944s] running install_scripts
+[14.042s] Installing zowe script to /home/puzzlebot/ros2_ws/src/install/zowe/lib/zowe
+[14.044s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/zowe/install.log'
+[14.164s] Invoked command in '/home/puzzlebot/ros2_ws/src/zowe' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/zowe/prefix_override:/home/puzzlebot/ros2_ws/src/install/zowe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/zowe build --build-base /home/puzzlebot/ros2_ws/src/build/zowe/build install --record /home/puzzlebot/ros2_ws/src/build/zowe/install.log --single-version-externally-managed

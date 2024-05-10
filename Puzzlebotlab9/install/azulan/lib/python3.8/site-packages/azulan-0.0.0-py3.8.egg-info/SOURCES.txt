@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/azulan/azulan.egg-info/PKG-INFO
+../build/azulan/azulan.egg-info/SOURCES.txt
+../build/azulan/azulan.egg-info/dependency_links.txt
+../build/azulan/azulan.egg-info/entry_points.txt
+../build/azulan/azulan.egg-info/requires.txt
+../build/azulan/azulan.egg-info/top_level.txt
+../build/azulan/azulan.egg-info/zip-safe
+azulan/__init__.py
+azulan/azulan.py
+resource/azulan
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

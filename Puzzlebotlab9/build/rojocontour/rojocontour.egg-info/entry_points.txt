@@ -1,0 +1,3 @@
+[console_scripts]
+rojocontour = rojocontour.rojocontour:main
+

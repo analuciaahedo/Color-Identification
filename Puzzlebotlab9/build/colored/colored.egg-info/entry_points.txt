@@ -1,0 +1,3 @@
+[console_scripts]
+colored = colored.colored:main
+

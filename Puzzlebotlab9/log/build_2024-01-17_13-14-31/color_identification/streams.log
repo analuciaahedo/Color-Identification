@@ -1,0 +1,21 @@
+[15.527s] Invoking command in '/home/puzzlebot/ros2_ws/src/color_identification': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/color_identification/prefix_override:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/color_identification build --build-base /home/puzzlebot/ros2_ws/src/build/color_identification/build install --record /home/puzzlebot/ros2_ws/src/build/color_identification/install.log --single-version-externally-managed
+[16.763s] running egg_info
+[16.766s] writing ../build/color_identification/color_identification.egg-info/PKG-INFO
+[16.769s] writing dependency_links to ../build/color_identification/color_identification.egg-info/dependency_links.txt
+[16.771s] writing entry points to ../build/color_identification/color_identification.egg-info/entry_points.txt
+[16.772s] writing requirements to ../build/color_identification/color_identification.egg-info/requires.txt
+[16.773s] writing top-level names to ../build/color_identification/color_identification.egg-info/top_level.txt
+[16.950s] reading manifest file '../build/color_identification/color_identification.egg-info/SOURCES.txt'
+[16.955s] writing manifest file '../build/color_identification/color_identification.egg-info/SOURCES.txt'
+[16.957s] running build
+[16.958s] running build_py
+[16.961s] running install
+[16.965s] running install_lib
+[16.974s] running install_data
+[16.980s] running install_egg_info
+[16.989s] removing '/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages/color_identification-0.0.0-py3.8.egg-info' (and everything under it)
+[16.990s] Copying ../build/color_identification/color_identification.egg-info to /home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages/color_identification-0.0.0-py3.8.egg-info
+[16.997s] running install_scripts
+[17.086s] Installing color_identification script to /home/puzzlebot/ros2_ws/src/install/color_identification/lib/color_identification
+[17.090s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/color_identification/install.log'
+[19.288s] Invoked command in '/home/puzzlebot/ros2_ws/src/color_identification' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/color_identification/prefix_override:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/color_identification build --build-base /home/puzzlebot/ros2_ws/src/build/color_identification/build install --record /home/puzzlebot/ros2_ws/src/build/color_identification/install.log --single-version-externally-managed

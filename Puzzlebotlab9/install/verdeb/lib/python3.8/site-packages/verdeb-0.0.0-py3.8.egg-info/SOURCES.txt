@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/verdeb/verdeb.egg-info/PKG-INFO
+../build/verdeb/verdeb.egg-info/SOURCES.txt
+../build/verdeb/verdeb.egg-info/dependency_links.txt
+../build/verdeb/verdeb.egg-info/entry_points.txt
+../build/verdeb/verdeb.egg-info/requires.txt
+../build/verdeb/verdeb.egg-info/top_level.txt
+../build/verdeb/verdeb.egg-info/zip-safe
+resource/verdeb
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+verdeb/__init__.py
+verdeb/verdeb.py

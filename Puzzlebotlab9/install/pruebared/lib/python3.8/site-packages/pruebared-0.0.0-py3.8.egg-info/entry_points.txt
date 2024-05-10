@@ -1,0 +1,3 @@
+[console_scripts]
+pruebared = pruebared.pruebared:main
+

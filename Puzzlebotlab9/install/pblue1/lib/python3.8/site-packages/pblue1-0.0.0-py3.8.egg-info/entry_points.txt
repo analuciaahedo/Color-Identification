@@ -1,0 +1,3 @@
+[console_scripts]
+pblue1 = pblue1.pblue1:main
+

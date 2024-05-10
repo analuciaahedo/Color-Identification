@@ -1,0 +1,264 @@
+[11.282s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[11.283s] DEBUG:colcon:Parsed command line arguments: Namespace(allow_overriding=[], ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7fa41ee130>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=4, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7fa41ee130>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fa3dfb640>)
+[11.772s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[11.772s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[11.772s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[11.773s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[11.773s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[11.773s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[11.773s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/puzzlebot/ros2_ws/src'
+[11.773s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[11.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[11.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[11.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[11.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[11.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[11.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[11.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[11.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[11.820s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[11.820s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[11.820s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[11.820s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[11.820s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[11.821s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extensions ['ignore', 'ignore_ament_install']
+[11.821s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extension 'ignore'
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extension 'ignore_ament_install'
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extensions ['colcon_pkg']
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extension 'colcon_pkg'
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extensions ['colcon_meta']
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extension 'colcon_meta'
+[11.822s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extensions ['ros']
+[11.823s] Level 1:colcon.colcon_core.package_identification:_identify(blue) by extension 'ros'
+[11.832s] DEBUG:colcon.colcon_core.package_identification:Package 'blue' with type 'ros.ament_python' and name 'blue'
+[11.833s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[11.833s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[11.833s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[11.834s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extensions ['ignore', 'ignore_ament_install']
+[11.834s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extension 'ignore'
+[11.834s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extension 'ignore_ament_install'
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extensions ['colcon_pkg']
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extension 'colcon_pkg'
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extensions ['colcon_meta']
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extension 'colcon_meta'
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extensions ['ros']
+[11.835s] Level 1:colcon.colcon_core.package_identification:_identify(color_identification) by extension 'ros'
+[11.838s] DEBUG:colcon.colcon_core.package_identification:Package 'color_identification' with type 'ros.ament_python' and name 'color_identification'
+[11.838s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[11.839s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[11.839s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[11.839s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[11.840s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[11.840s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[11.840s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extensions ['ignore', 'ignore_ament_install']
+[11.840s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extension 'ignore'
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extension 'ignore_ament_install'
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extensions ['colcon_pkg']
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extension 'colcon_pkg'
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extensions ['colcon_meta']
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extension 'colcon_meta'
+[11.841s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extensions ['ros']
+[11.842s] Level 1:colcon.colcon_core.package_identification:_identify(odometry) by extension 'ros'
+[11.844s] DEBUG:colcon.colcon_core.package_identification:Package 'odometry' with type 'ros.ament_python' and name 'odometry'
+[11.844s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extensions ['ignore', 'ignore_ament_install']
+[11.845s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extension 'ignore'
+[11.845s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extension 'ignore_ament_install'
+[11.845s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extensions ['colcon_pkg']
+[11.845s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extension 'colcon_pkg'
+[11.845s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extensions ['colcon_meta']
+[11.846s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extension 'colcon_meta'
+[11.846s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extensions ['ros']
+[11.846s] Level 1:colcon.colcon_core.package_identification:_identify(puzzlebot_ros) by extension 'ros'
+[11.848s] DEBUG:colcon.colcon_core.package_identification:Package 'puzzlebot_ros' with type 'ros.ament_python' and name 'puzzlebot_ros'
+[11.848s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[11.848s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[11.848s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[11.849s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[11.849s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[12.868s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[12.868s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[13.255s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 4 installed packages in /home/puzzlebot/ros2_ws/install
+[13.449s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 5 installed packages in /home/puzzlebot/ros2_packages_ws/install
+[13.645s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 276 installed packages in /opt/ros/humble
+[13.653s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[14.458s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_args' from command line to 'None'
+[14.458s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_target' from command line to 'None'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_clean_cache' from command line to 'False'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_clean_first' from command line to 'False'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'cmake_force_configure' from command line to 'False'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'ament_cmake_args' from command line to 'None'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'catkin_cmake_args' from command line to 'None'
+[14.459s] Level 5:colcon.colcon_core.verb:set package 'blue' build argument 'catkin_skip_building_tests' from command line to 'False'
+[14.459s] DEBUG:colcon.colcon_core.verb:Building package 'blue' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/puzzlebot/ros2_ws/src/build/blue', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/puzzlebot/ros2_ws/src/install/blue', 'merge_install': False, 'path': '/home/puzzlebot/ros2_ws/src/blue', 'symlink_install': False, 'test_result_base': None}
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_args' from command line to 'None'
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_target' from command line to 'None'
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_clean_cache' from command line to 'False'
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_clean_first' from command line to 'False'
+[14.651s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'cmake_force_configure' from command line to 'False'
+[14.652s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'ament_cmake_args' from command line to 'None'
+[14.652s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'catkin_cmake_args' from command line to 'None'
+[14.652s] Level 5:colcon.colcon_core.verb:set package 'color_identification' build argument 'catkin_skip_building_tests' from command line to 'False'
+[14.652s] DEBUG:colcon.colcon_core.verb:Building package 'color_identification' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/puzzlebot/ros2_ws/src/build/color_identification', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/puzzlebot/ros2_ws/src/install/color_identification', 'merge_install': False, 'path': '/home/puzzlebot/ros2_ws/src/color_identification', 'symlink_install': False, 'test_result_base': None}
+[14.844s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_args' from command line to 'None'
+[14.844s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_target' from command line to 'None'
+[14.844s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[14.844s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_clean_cache' from command line to 'False'
+[14.844s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_clean_first' from command line to 'False'
+[14.845s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'cmake_force_configure' from command line to 'False'
+[14.845s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'ament_cmake_args' from command line to 'None'
+[14.845s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'catkin_cmake_args' from command line to 'None'
+[14.845s] Level 5:colcon.colcon_core.verb:set package 'odometry' build argument 'catkin_skip_building_tests' from command line to 'False'
+[14.845s] DEBUG:colcon.colcon_core.verb:Building package 'odometry' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/puzzlebot/ros2_ws/src/build/odometry', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/puzzlebot/ros2_ws/src/install/odometry', 'merge_install': False, 'path': '/home/puzzlebot/ros2_ws/src/odometry', 'symlink_install': False, 'test_result_base': None}
+[15.037s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_args' from command line to 'None'
+[15.037s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_target' from command line to 'None'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_clean_cache' from command line to 'False'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_clean_first' from command line to 'False'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'cmake_force_configure' from command line to 'False'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'ament_cmake_args' from command line to 'None'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'catkin_cmake_args' from command line to 'None'
+[15.038s] Level 5:colcon.colcon_core.verb:set package 'puzzlebot_ros' build argument 'catkin_skip_building_tests' from command line to 'False'
+[15.039s] DEBUG:colcon.colcon_core.verb:Building package 'puzzlebot_ros' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros', 'merge_install': False, 'path': '/home/puzzlebot/ros2_ws/src/puzzlebot_ros', 'symlink_install': False, 'test_result_base': None}
+[15.228s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[15.420s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[15.421s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/puzzlebot/ros2_ws/src/blue' with build type 'ament_python'
+[15.422s] Level 1:colcon.colcon_core.shell:create_environment_hook('blue', 'ament_prefix_path')
+[15.623s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[15.624s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/ament_prefix_path.ps1'
+[15.627s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/ament_prefix_path.dsv'
+[15.628s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/ament_prefix_path.sh'
+[15.829s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[15.829s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[16.644s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/puzzlebot/ros2_ws/src/color_identification' with build type 'ament_python'
+[16.645s] Level 1:colcon.colcon_core.shell:create_environment_hook('color_identification', 'ament_prefix_path')
+[16.887s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/ament_prefix_path.ps1'
+[16.889s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/ament_prefix_path.dsv'
+[16.891s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/ament_prefix_path.sh'
+[17.089s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[17.089s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[17.897s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/puzzlebot/ros2_ws/src/odometry' with build type 'ament_python'
+[17.898s] Level 1:colcon.colcon_core.shell:create_environment_hook('odometry', 'ament_prefix_path')
+[18.097s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/ament_prefix_path.ps1'
+[18.098s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/ament_prefix_path.dsv'
+[18.100s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/ament_prefix_path.sh'
+[18.296s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[18.296s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[19.105s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/puzzlebot/ros2_ws/src/puzzlebot_ros' with build type 'ament_python'
+[19.106s] Level 1:colcon.colcon_core.shell:create_environment_hook('puzzlebot_ros', 'ament_prefix_path')
+[19.310s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/ament_prefix_path.ps1'
+[19.313s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/ament_prefix_path.dsv'
+[19.315s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/ament_prefix_path.sh'
+[19.514s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[19.514s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[21.387s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/puzzlebot/ros2_ws/src/blue'
+[21.586s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[21.587s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[23.492s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/puzzlebot/ros2_ws/src/color_identification'
+[23.696s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[23.696s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[25.620s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/puzzlebot/ros2_ws/src/odometry'
+[25.821s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[25.821s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[27.694s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/puzzlebot/ros2_ws/src/puzzlebot_ros'
+[27.912s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[27.912s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[30.855s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/puzzlebot/ros2_ws/src/blue': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/blue/prefix_override:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/blue build --build-base /home/puzzlebot/ros2_ws/src/build/blue/build install --record /home/puzzlebot/ros2_ws/src/build/blue/install.log --single-version-externally-managed
+[30.884s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/puzzlebot/ros2_ws/src/color_identification': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/color_identification/prefix_override:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/color_identification build --build-base /home/puzzlebot/ros2_ws/src/build/color_identification/build install --record /home/puzzlebot/ros2_ws/src/build/color_identification/install.log --single-version-externally-managed
+[30.913s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/puzzlebot/ros2_ws/src/puzzlebot_ros': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/prefix_override:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/puzzlebot_ros build --build-base /home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/build install --record /home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/install.log --single-version-externally-managed
+[30.936s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/puzzlebot/ros2_ws/src/odometry': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed
+[32.464s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/puzzlebot/ros2_ws/src/blue' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/blue/prefix_override:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/blue build --build-base /home/puzzlebot/ros2_ws/src/build/blue/build install --record /home/puzzlebot/ros2_ws/src/build/blue/install.log --single-version-externally-managed
+[32.693s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue' for CMake module files
+[32.696s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue' for CMake config files
+[32.698s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue/lib'
+[32.699s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue/bin'
+[32.699s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue/lib/pkgconfig/blue.pc'
+[32.700s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages'
+[32.700s] Level 1:colcon.colcon_core.shell:create_environment_hook('blue', 'pythonpath')
+[32.902s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/pythonpath.ps1'
+[32.905s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/pythonpath.dsv'
+[32.906s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/hook/pythonpath.sh'
+[32.908s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/blue/bin'
+[32.908s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(blue)
+[33.109s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/package.ps1'
+[33.114s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/package.dsv'
+[33.116s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/package.sh'
+[33.119s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/package.bash'
+[33.122s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/blue/share/blue/package.zsh'
+[33.125s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/puzzlebot/ros2_ws/src/install/blue/share/colcon-core/packages/blue)
+[33.131s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/puzzlebot/ros2_ws/src/color_identification' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/color_identification/prefix_override:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/color_identification build --build-base /home/puzzlebot/ros2_ws/src/build/color_identification/build install --record /home/puzzlebot/ros2_ws/src/build/color_identification/install.log --single-version-externally-managed
+[33.331s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification' for CMake module files
+[33.333s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification' for CMake config files
+[33.335s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification/lib'
+[33.336s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification/bin'
+[33.336s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification/lib/pkgconfig/color_identification.pc'
+[33.337s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages'
+[33.337s] Level 1:colcon.colcon_core.shell:create_environment_hook('color_identification', 'pythonpath')
+[33.536s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/pythonpath.ps1'
+[33.537s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/pythonpath.dsv'
+[33.539s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/hook/pythonpath.sh'
+[33.540s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/color_identification/bin'
+[33.541s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(color_identification)
+[33.742s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/package.ps1'
+[33.744s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/package.dsv'
+[33.745s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/package.sh'
+[33.747s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/package.bash'
+[33.748s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/color_identification/share/color_identification/package.zsh'
+[33.749s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/puzzlebot/ros2_ws/src/install/color_identification/share/colcon-core/packages/color_identification)
+[33.752s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/puzzlebot/ros2_ws/src/puzzlebot_ros' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/prefix_override:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/puzzlebot_ros build --build-base /home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/build install --record /home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/install.log --single-version-externally-managed
+[33.951s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros' for CMake module files
+[33.953s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros' for CMake config files
+[33.956s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib'
+[33.956s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/bin'
+[33.956s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/pkgconfig/puzzlebot_ros.pc'
+[33.957s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages'
+[33.957s] Level 1:colcon.colcon_core.shell:create_environment_hook('puzzlebot_ros', 'pythonpath')
+[34.159s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/pythonpath.ps1'
+[34.160s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/pythonpath.dsv'
+[34.161s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/hook/pythonpath.sh'
+[34.163s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/bin'
+[34.163s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(puzzlebot_ros)
+[34.365s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/package.ps1'
+[34.367s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/package.dsv'
+[34.369s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/package.sh'
+[34.371s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/package.bash'
+[34.372s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/puzzlebot_ros/package.zsh'
+[34.373s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/share/colcon-core/packages/puzzlebot_ros)
+[34.376s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/puzzlebot/ros2_ws/src/odometry' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed
+[34.575s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry' for CMake module files
+[34.577s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry' for CMake config files
+[34.579s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry/lib'
+[34.579s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry/bin'
+[34.580s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry/lib/pkgconfig/odometry.pc'
+[34.580s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages'
+[34.581s] Level 1:colcon.colcon_core.shell:create_environment_hook('odometry', 'pythonpath')
+[34.781s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/pythonpath.ps1'
+[34.782s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/pythonpath.dsv'
+[34.783s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/hook/pythonpath.sh'
+[34.785s] Level 1:colcon.colcon_core.environment:checking '/home/puzzlebot/ros2_ws/src/install/odometry/bin'
+[34.785s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(odometry)
+[34.988s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/package.ps1'
+[34.989s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/package.dsv'
+[34.991s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/package.sh'
+[34.993s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/package.bash'
+[34.994s] INFO:colcon.colcon_core.shell:Creating package script '/home/puzzlebot/ros2_ws/src/install/odometry/share/odometry/package.zsh'
+[34.995s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/puzzlebot/ros2_ws/src/install/odometry/share/colcon-core/packages/odometry)
+[34.996s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[34.997s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[34.997s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[34.998s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[35.219s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[35.220s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[35.220s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[35.264s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[35.526s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/puzzlebot/ros2_ws/src/install/local_setup.ps1'
+[35.530s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/puzzlebot/ros2_ws/src/install/_local_setup_util_ps1.py'
+[35.535s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/puzzlebot/ros2_ws/src/install/setup.ps1'
+[35.736s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/puzzlebot/ros2_ws/src/install/local_setup.sh'
+[35.738s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/puzzlebot/ros2_ws/src/install/_local_setup_util_sh.py'
+[35.740s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/puzzlebot/ros2_ws/src/install/setup.sh'
+[35.941s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/puzzlebot/ros2_ws/src/install/local_setup.bash'
+[35.943s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/puzzlebot/ros2_ws/src/install/setup.bash'
+[36.147s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/puzzlebot/ros2_ws/src/install/local_setup.zsh'
+[36.148s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/puzzlebot/ros2_ws/src/install/setup.zsh'

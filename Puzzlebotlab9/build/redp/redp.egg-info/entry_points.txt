@@ -1,0 +1,3 @@
+[console_scripts]
+redp = redp.redp:main
+

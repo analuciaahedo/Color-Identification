@@ -1,0 +1,37 @@
+[15.128s] Invoking command in '/home/puzzlebot/ros2_ws/src/rojouno': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/rojouno/prefix_override:/home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/rojouno build --build-base /home/puzzlebot/ros2_ws/src/build/rojouno/build install --record /home/puzzlebot/ros2_ws/src/build/rojouno/install.log --single-version-externally-managed
+[16.430s] running egg_info
+[16.432s] creating ../build/rojouno/rojouno.egg-info
+[16.433s] writing ../build/rojouno/rojouno.egg-info/PKG-INFO
+[16.433s] writing dependency_links to ../build/rojouno/rojouno.egg-info/dependency_links.txt
+[16.435s] writing entry points to ../build/rojouno/rojouno.egg-info/entry_points.txt
+[16.435s] writing requirements to ../build/rojouno/rojouno.egg-info/requires.txt
+[16.436s] writing top-level names to ../build/rojouno/rojouno.egg-info/top_level.txt
+[16.438s] writing manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+[16.612s] reading manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+[16.615s] writing manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+[16.616s] running build
+[16.617s] running build_py
+[16.617s] creating /home/puzzlebot/ros2_ws/src/build/rojouno/build
+[16.618s] creating /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib
+[16.618s] creating /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+[16.619s] copying rojouno/rojouno.py -> /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+[16.621s] copying rojouno/__init__.py -> /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+[16.622s] running install
+[16.639s] running install_lib
+[16.640s] creating /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+[16.641s] copying /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno/rojouno.py -> /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+[16.642s] copying /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno/__init__.py -> /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+[16.642s] byte-compiling /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno/rojouno.py to rojouno.cpython-38.pyc
+[16.644s] byte-compiling /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno/__init__.py to __init__.cpython-38.pyc
+[16.644s] running install_data
+[16.645s] creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index
+[16.645s] creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index
+[16.646s] creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index/packages
+[16.648s] copying resource/rojouno -> /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index/packages
+[16.649s] copying package.xml -> /home/puzzlebot/ros2_ws/src/install/rojouno/share/rojouno
+[16.650s] running install_egg_info
+[16.661s] Copying ../build/rojouno/rojouno.egg-info to /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno-0.0.0-py3.8.egg-info
+[16.665s] running install_scripts
+[16.755s] Installing rojouno script to /home/puzzlebot/ros2_ws/src/install/rojouno/lib/rojouno
+[16.756s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/rojouno/install.log'
+[18.867s] Invoked command in '/home/puzzlebot/ros2_ws/src/rojouno' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/rojouno/prefix_override:/home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/rojouno build --build-base /home/puzzlebot/ros2_ws/src/build/rojouno/build install --record /home/puzzlebot/ros2_ws/src/build/rojouno/install.log --single-version-externally-managed

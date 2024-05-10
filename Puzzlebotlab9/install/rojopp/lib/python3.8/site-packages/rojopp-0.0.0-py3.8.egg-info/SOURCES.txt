@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/rojopp/rojopp.egg-info/PKG-INFO
+../build/rojopp/rojopp.egg-info/SOURCES.txt
+../build/rojopp/rojopp.egg-info/dependency_links.txt
+../build/rojopp/rojopp.egg-info/entry_points.txt
+../build/rojopp/rojopp.egg-info/requires.txt
+../build/rojopp/rojopp.egg-info/top_level.txt
+../build/rojopp/rojopp.egg-info/zip-safe
+resource/rojopp
+rojopp/__init__.py
+rojopp/rojopp.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

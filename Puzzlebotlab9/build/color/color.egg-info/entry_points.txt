@@ -1,0 +1,3 @@
+[console_scripts]
+color = color.color:main
+

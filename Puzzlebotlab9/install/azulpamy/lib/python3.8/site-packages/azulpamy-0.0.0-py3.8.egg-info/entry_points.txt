@@ -1,0 +1,3 @@
+[console_scripts]
+azulpamy = azulpamy.azulpamy:main
+

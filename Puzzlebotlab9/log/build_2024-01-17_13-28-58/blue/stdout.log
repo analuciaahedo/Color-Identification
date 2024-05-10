@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/blue/blue.egg-info/PKG-INFO
+writing dependency_links to ../build/blue/blue.egg-info/dependency_links.txt
+writing entry points to ../build/blue/blue.egg-info/entry_points.txt
+writing requirements to ../build/blue/blue.egg-info/requires.txt
+writing top-level names to ../build/blue/blue.egg-info/top_level.txt
+reading manifest file '../build/blue/blue.egg-info/SOURCES.txt'
+writing manifest file '../build/blue/blue.egg-info/SOURCES.txt'
+running build
+running build_py
+copying blue/blue.py -> /home/puzzlebot/ros2_ws/src/build/blue/build/lib/blue
+running install
+running install_lib
+copying /home/puzzlebot/ros2_ws/src/build/blue/build/lib/blue/blue.py -> /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue
+byte-compiling /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue/blue.py to blue.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../build/blue/blue.egg-info to /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue-0.0.0-py3.8.egg-info
+running install_scripts
+Installing blue script to /home/puzzlebot/ros2_ws/src/install/blue/lib/blue
+writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/blue/install.log'

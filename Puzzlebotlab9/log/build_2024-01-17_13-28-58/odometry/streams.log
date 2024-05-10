@@ -1,0 +1,23 @@
+[14.857s] Invoking command in '/home/puzzlebot/ros2_ws/src/odometry': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed
+[16.086s] running egg_info
+[16.088s] writing ../build/odometry/odometry.egg-info/PKG-INFO
+[16.089s] writing dependency_links to ../build/odometry/odometry.egg-info/dependency_links.txt
+[16.090s] writing entry points to ../build/odometry/odometry.egg-info/entry_points.txt
+[16.090s] writing requirements to ../build/odometry/odometry.egg-info/requires.txt
+[16.091s] writing top-level names to ../build/odometry/odometry.egg-info/top_level.txt
+[16.263s] reading manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[16.269s] writing manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[16.270s] running build
+[16.271s] running build_py
+[16.273s] running install
+[16.281s] running install_lib
+[16.288s] byte-compiling /home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry/__init__.py to __init__.cpython-38.pyc
+[16.294s] byte-compiling /home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry/odometry.py to odometry.cpython-38.pyc
+[16.296s] running install_data
+[16.300s] running install_egg_info
+[16.309s] removing '/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info' (and everything under it)
+[16.312s] Copying ../build/odometry/odometry.egg-info to /home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info
+[16.315s] running install_scripts
+[16.393s] Installing odometry script to /home/puzzlebot/ros2_ws/src/install/odometry/lib/odometry
+[16.395s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/odometry/install.log'
+[16.516s] Invoked command in '/home/puzzlebot/ros2_ws/src/odometry' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed

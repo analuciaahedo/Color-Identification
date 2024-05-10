@@ -1,0 +1,6 @@
+source;share/redp/hook/pythonpath.ps1
+source;share/redp/hook/pythonpath.dsv
+source;share/redp/hook/pythonpath.sh
+source;share/redp/hook/ament_prefix_path.ps1
+source;share/redp/hook/ament_prefix_path.dsv
+source;share/redp/hook/ament_prefix_path.sh

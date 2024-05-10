@@ -1,0 +1,6 @@
+source;share/azulpamy/hook/pythonpath.ps1
+source;share/azulpamy/hook/pythonpath.dsv
+source;share/azulpamy/hook/pythonpath.sh
+source;share/azulpamy/hook/ament_prefix_path.ps1
+source;share/azulpamy/hook/ament_prefix_path.dsv
+source;share/azulpamy/hook/ament_prefix_path.sh

@@ -1,0 +1,6 @@
+source;share/rojocontour/hook/pythonpath.ps1
+source;share/rojocontour/hook/pythonpath.dsv
+source;share/rojocontour/hook/pythonpath.sh
+source;share/rojocontour/hook/ament_prefix_path.ps1
+source;share/rojocontour/hook/ament_prefix_path.dsv
+source;share/rojocontour/hook/ament_prefix_path.sh

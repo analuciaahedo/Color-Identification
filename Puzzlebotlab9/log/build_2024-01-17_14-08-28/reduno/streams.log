@@ -1,0 +1,24 @@
+[14.916s] Invoking command in '/home/puzzlebot/ros2_ws/src/reduno': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/reduno/prefix_override:/home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/reduno build --build-base /home/puzzlebot/ros2_ws/src/build/reduno/build install --record /home/puzzlebot/ros2_ws/src/build/reduno/install.log --single-version-externally-managed
+[16.658s] running egg_info
+[16.661s] writing ../build/reduno/reduno.egg-info/PKG-INFO
+[16.675s] writing dependency_links to ../build/reduno/reduno.egg-info/dependency_links.txt
+[16.676s] writing entry points to ../build/reduno/reduno.egg-info/entry_points.txt
+[16.676s] writing requirements to ../build/reduno/reduno.egg-info/requires.txt
+[16.677s] writing top-level names to ../build/reduno/reduno.egg-info/top_level.txt
+[16.915s] reading manifest file '../build/reduno/reduno.egg-info/SOURCES.txt'
+[16.921s] writing manifest file '../build/reduno/reduno.egg-info/SOURCES.txt'
+[16.922s] running build
+[16.922s] running build_py
+[16.923s] copying reduno/reduno.py -> /home/puzzlebot/ros2_ws/src/build/reduno/build/lib/reduno
+[16.923s] running install
+[16.928s] running install_lib
+[16.936s] copying /home/puzzlebot/ros2_ws/src/build/reduno/build/lib/reduno/reduno.py -> /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno
+[16.939s] byte-compiling /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno/reduno.py to reduno.cpython-38.pyc
+[16.947s] running install_data
+[16.952s] running install_egg_info
+[16.962s] removing '/home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno-0.0.0-py3.8.egg-info' (and everything under it)
+[16.963s] Copying ../build/reduno/reduno.egg-info to /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno-0.0.0-py3.8.egg-info
+[16.967s] running install_scripts
+[17.062s] Installing reduno script to /home/puzzlebot/ros2_ws/src/install/reduno/lib/reduno
+[17.065s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/reduno/install.log'
+[18.042s] Invoked command in '/home/puzzlebot/ros2_ws/src/reduno' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/reduno/prefix_override:/home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/reduno build --build-base /home/puzzlebot/ros2_ws/src/build/reduno/build install --record /home/puzzlebot/ros2_ws/src/build/reduno/install.log --single-version-externally-managed

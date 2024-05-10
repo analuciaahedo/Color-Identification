@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/reduno/reduno.egg-info/PKG-INFO
+../build/reduno/reduno.egg-info/SOURCES.txt
+../build/reduno/reduno.egg-info/dependency_links.txt
+../build/reduno/reduno.egg-info/entry_points.txt
+../build/reduno/reduno.egg-info/requires.txt
+../build/reduno/reduno.egg-info/top_level.txt
+../build/reduno/reduno.egg-info/zip-safe
+reduno/__init__.py
+reduno/reduno.py
+resource/reduno
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,6 @@
+source;share/rojopp/hook/pythonpath.ps1
+source;share/rojopp/hook/pythonpath.dsv
+source;share/rojopp/hook/pythonpath.sh
+source;share/rojopp/hook/ament_prefix_path.ps1
+source;share/rojopp/hook/ament_prefix_path.dsv
+source;share/rojopp/hook/ament_prefix_path.sh

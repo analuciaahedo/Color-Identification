@@ -1,0 +1,24 @@
+[16.869s] Invoking command in '/home/puzzlebot/ros2_ws/src/azul': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/azul/prefix_override:/home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/azul build --build-base /home/puzzlebot/ros2_ws/src/build/azul/build install --record /home/puzzlebot/ros2_ws/src/build/azul/install.log --single-version-externally-managed
+[18.148s] running egg_info
+[18.151s] writing ../build/azul/azul.egg-info/PKG-INFO
+[18.154s] writing dependency_links to ../build/azul/azul.egg-info/dependency_links.txt
+[18.156s] writing entry points to ../build/azul/azul.egg-info/entry_points.txt
+[18.156s] writing requirements to ../build/azul/azul.egg-info/requires.txt
+[18.157s] writing top-level names to ../build/azul/azul.egg-info/top_level.txt
+[18.342s] reading manifest file '../build/azul/azul.egg-info/SOURCES.txt'
+[18.348s] writing manifest file '../build/azul/azul.egg-info/SOURCES.txt'
+[18.348s] running build
+[18.349s] running build_py
+[18.351s] copying azul/azul.py -> /home/puzzlebot/ros2_ws/src/build/azul/build/lib/azul
+[18.352s] running install
+[18.356s] running install_lib
+[18.363s] copying /home/puzzlebot/ros2_ws/src/build/azul/build/lib/azul/azul.py -> /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul
+[18.366s] byte-compiling /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul/azul.py to azul.cpython-38.pyc
+[18.374s] running install_data
+[18.378s] running install_egg_info
+[18.390s] removing '/home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul-0.0.0-py3.8.egg-info' (and everything under it)
+[18.392s] Copying ../build/azul/azul.egg-info to /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul-0.0.0-py3.8.egg-info
+[18.398s] running install_scripts
+[18.492s] Installing azul script to /home/puzzlebot/ros2_ws/src/install/azul/lib/azul
+[18.496s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/azul/install.log'
+[21.931s] Invoked command in '/home/puzzlebot/ros2_ws/src/azul' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/azul/prefix_override:/home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/azul build --build-base /home/puzzlebot/ros2_ws/src/build/azul/build install --record /home/puzzlebot/ros2_ws/src/build/azul/install.log --single-version-externally-managed

@@ -1,0 +1,19 @@
+running egg_info
+writing ../build/zoe/zoe.egg-info/PKG-INFO
+writing dependency_links to ../build/zoe/zoe.egg-info/dependency_links.txt
+writing entry points to ../build/zoe/zoe.egg-info/entry_points.txt
+writing requirements to ../build/zoe/zoe.egg-info/requires.txt
+writing top-level names to ../build/zoe/zoe.egg-info/top_level.txt
+reading manifest file '../build/zoe/zoe.egg-info/SOURCES.txt'
+writing manifest file '../build/zoe/zoe.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/puzzlebot/ros2_ws/src/install/zoe/lib/python3.8/site-packages/zoe-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../build/zoe/zoe.egg-info to /home/puzzlebot/ros2_ws/src/install/zoe/lib/python3.8/site-packages/zoe-0.0.0-py3.8.egg-info
+running install_scripts
+Installing zoe script to /home/puzzlebot/ros2_ws/src/install/zoe/lib/zoe
+writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/zoe/install.log'

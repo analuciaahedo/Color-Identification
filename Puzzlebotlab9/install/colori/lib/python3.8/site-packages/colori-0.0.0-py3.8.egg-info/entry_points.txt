@@ -1,0 +1,3 @@
+[console_scripts]
+colori = colori.colori:main
+

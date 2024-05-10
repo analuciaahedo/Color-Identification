@@ -1,0 +1,6 @@
+source;share/colored/hook/pythonpath.ps1
+source;share/colored/hook/pythonpath.dsv
+source;share/colored/hook/pythonpath.sh
+source;share/colored/hook/ament_prefix_path.ps1
+source;share/colored/hook/ament_prefix_path.dsv
+source;share/colored/hook/ament_prefix_path.sh

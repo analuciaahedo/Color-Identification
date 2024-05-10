@@ -1,0 +1,3 @@
+[console_scripts]
+colorid = colorid.colorid:main
+

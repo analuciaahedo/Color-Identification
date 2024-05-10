@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/redp/redp.egg-info/PKG-INFO
+../build/redp/redp.egg-info/SOURCES.txt
+../build/redp/redp.egg-info/dependency_links.txt
+../build/redp/redp.egg-info/entry_points.txt
+../build/redp/redp.egg-info/requires.txt
+../build/redp/redp.egg-info/top_level.txt
+../build/redp/redp.egg-info/zip-safe
+redp/__init__.py
+redp/redp.py
+resource/redp
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

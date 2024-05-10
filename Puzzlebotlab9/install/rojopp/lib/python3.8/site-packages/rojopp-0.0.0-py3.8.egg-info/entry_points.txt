@@ -1,0 +1,3 @@
+[console_scripts]
+rojopp = rojopp.rojopp:main
+

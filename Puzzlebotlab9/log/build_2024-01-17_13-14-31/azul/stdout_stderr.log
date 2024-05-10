@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/azul/azul.egg-info/PKG-INFO
+writing dependency_links to ../build/azul/azul.egg-info/dependency_links.txt
+writing entry points to ../build/azul/azul.egg-info/entry_points.txt
+writing requirements to ../build/azul/azul.egg-info/requires.txt
+writing top-level names to ../build/azul/azul.egg-info/top_level.txt
+reading manifest file '../build/azul/azul.egg-info/SOURCES.txt'
+writing manifest file '../build/azul/azul.egg-info/SOURCES.txt'
+running build
+running build_py
+copying azul/azul.py -> /home/puzzlebot/ros2_ws/src/build/azul/build/lib/azul
+running install
+running install_lib
+copying /home/puzzlebot/ros2_ws/src/build/azul/build/lib/azul/azul.py -> /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul
+byte-compiling /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul/azul.py to azul.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../build/azul/azul.egg-info to /home/puzzlebot/ros2_ws/src/install/azul/lib/python3.8/site-packages/azul-0.0.0-py3.8.egg-info
+running install_scripts
+Installing azul script to /home/puzzlebot/ros2_ws/src/install/azul/lib/azul
+writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/azul/install.log'

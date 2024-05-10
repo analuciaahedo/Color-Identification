@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/azulpamy/azulpamy.egg-info/PKG-INFO
+../build/azulpamy/azulpamy.egg-info/SOURCES.txt
+../build/azulpamy/azulpamy.egg-info/dependency_links.txt
+../build/azulpamy/azulpamy.egg-info/entry_points.txt
+../build/azulpamy/azulpamy.egg-info/requires.txt
+../build/azulpamy/azulpamy.egg-info/top_level.txt
+../build/azulpamy/azulpamy.egg-info/zip-safe
+azulpamy/__init__.py
+azulpamy/azulpamy.py
+resource/azulpamy
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

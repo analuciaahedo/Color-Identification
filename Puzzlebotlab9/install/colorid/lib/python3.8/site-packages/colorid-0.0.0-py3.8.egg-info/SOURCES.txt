@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/colorid/colorid.egg-info/PKG-INFO
+../build/colorid/colorid.egg-info/SOURCES.txt
+../build/colorid/colorid.egg-info/dependency_links.txt
+../build/colorid/colorid.egg-info/entry_points.txt
+../build/colorid/colorid.egg-info/requires.txt
+../build/colorid/colorid.egg-info/top_level.txt
+../build/colorid/colorid.egg-info/zip-safe
+colorid/__init__.py
+colorid/colorid.py
+resource/colorid
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

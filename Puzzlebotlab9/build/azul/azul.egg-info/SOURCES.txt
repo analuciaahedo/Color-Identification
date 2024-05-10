@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/azul/azul.egg-info/PKG-INFO
+../build/azul/azul.egg-info/SOURCES.txt
+../build/azul/azul.egg-info/dependency_links.txt
+../build/azul/azul.egg-info/entry_points.txt
+../build/azul/azul.egg-info/requires.txt
+../build/azul/azul.egg-info/top_level.txt
+../build/azul/azul.egg-info/zip-safe
+azul/__init__.py
+azul/azul.py
+resource/azul
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

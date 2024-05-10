@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/color/color.egg-info/PKG-INFO
+../build/color/color.egg-info/SOURCES.txt
+../build/color/color.egg-info/dependency_links.txt
+../build/color/color.egg-info/entry_points.txt
+../build/color/color.egg-info/requires.txt
+../build/color/color.egg-info/top_level.txt
+../build/color/color.egg-info/zip-safe
+color/__init__.py
+color/color.py
+resource/color
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

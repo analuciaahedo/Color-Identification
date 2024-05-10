@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/red_mask/red_mask.egg-info
+writing ../build/red_mask/red_mask.egg-info/PKG-INFO
+writing dependency_links to ../build/red_mask/red_mask.egg-info/dependency_links.txt
+writing entry points to ../build/red_mask/red_mask.egg-info/entry_points.txt
+writing requirements to ../build/red_mask/red_mask.egg-info/requires.txt
+writing top-level names to ../build/red_mask/red_mask.egg-info/top_level.txt
+writing manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+reading manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+writing manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/puzzlebot/ros2_ws/src/build/red_mask/build
+creating /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib
+creating /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+copying red_mask/__init__.py -> /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+copying red_mask/red_mask.py -> /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+running install
+running install_lib
+creating /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+copying /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask/__init__.py -> /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+copying /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask/red_mask.py -> /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+byte-compiling /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask/red_mask.py to red_mask.cpython-38.pyc
+running install_data
+creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index
+creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index
+creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index/packages
+copying resource/red_mask -> /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index/packages
+copying package.xml -> /home/puzzlebot/ros2_ws/src/install/red_mask/share/red_mask
+running install_egg_info
+Copying ../build/red_mask/red_mask.egg-info to /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask-0.0.0-py3.8.egg-info
+running install_scripts
+Installing red_mask script to /home/puzzlebot/ros2_ws/src/install/red_mask/lib/red_mask
+writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/red_mask/install.log'

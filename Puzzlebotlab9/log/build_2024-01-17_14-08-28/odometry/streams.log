@@ -1,0 +1,21 @@
+[18.671s] Invoking command in '/home/puzzlebot/ros2_ws/src/odometry': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed
+[20.341s] running egg_info
+[20.342s] writing ../build/odometry/odometry.egg-info/PKG-INFO
+[20.344s] writing dependency_links to ../build/odometry/odometry.egg-info/dependency_links.txt
+[20.345s] writing entry points to ../build/odometry/odometry.egg-info/entry_points.txt
+[20.346s] writing requirements to ../build/odometry/odometry.egg-info/requires.txt
+[20.346s] writing top-level names to ../build/odometry/odometry.egg-info/top_level.txt
+[20.521s] reading manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[20.527s] writing manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[20.527s] running build
+[20.528s] running build_py
+[20.529s] running install
+[20.533s] running install_lib
+[20.542s] running install_data
+[20.545s] running install_egg_info
+[20.554s] removing '/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info' (and everything under it)
+[20.556s] Copying ../build/odometry/odometry.egg-info to /home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info
+[20.561s] running install_scripts
+[20.651s] Installing odometry script to /home/puzzlebot/ros2_ws/src/install/odometry/lib/odometry
+[20.653s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/odometry/install.log'
+[22.516s] Invoked command in '/home/puzzlebot/ros2_ws/src/odometry' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/odometry build --build-base /home/puzzlebot/ros2_ws/src/build/odometry/build install --record /home/puzzlebot/ros2_ws/src/build/odometry/install.log --single-version-externally-managed

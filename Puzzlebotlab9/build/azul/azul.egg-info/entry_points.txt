@@ -1,0 +1,3 @@
+[console_scripts]
+azul = azul.azul:main
+

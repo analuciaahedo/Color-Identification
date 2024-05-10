@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/rojouno/rojouno.egg-info
+writing ../build/rojouno/rojouno.egg-info/PKG-INFO
+writing dependency_links to ../build/rojouno/rojouno.egg-info/dependency_links.txt
+writing entry points to ../build/rojouno/rojouno.egg-info/entry_points.txt
+writing requirements to ../build/rojouno/rojouno.egg-info/requires.txt
+writing top-level names to ../build/rojouno/rojouno.egg-info/top_level.txt
+writing manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+reading manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+writing manifest file '../build/rojouno/rojouno.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/puzzlebot/ros2_ws/src/build/rojouno/build
+creating /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib
+creating /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+copying rojouno/rojouno.py -> /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+copying rojouno/__init__.py -> /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno
+running install
+running install_lib
+creating /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+copying /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno/rojouno.py -> /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+copying /home/puzzlebot/ros2_ws/src/build/rojouno/build/lib/rojouno/__init__.py -> /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno
+byte-compiling /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno/rojouno.py to rojouno.cpython-38.pyc
+byte-compiling /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index
+creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index
+creating /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index/packages
+copying resource/rojouno -> /home/puzzlebot/ros2_ws/src/install/rojouno/share/ament_index/resource_index/packages
+copying package.xml -> /home/puzzlebot/ros2_ws/src/install/rojouno/share/rojouno
+running install_egg_info
+Copying ../build/rojouno/rojouno.egg-info to /home/puzzlebot/ros2_ws/src/install/rojouno/lib/python3.8/site-packages/rojouno-0.0.0-py3.8.egg-info
+running install_scripts
+Installing rojouno script to /home/puzzlebot/ros2_ws/src/install/rojouno/lib/rojouno
+writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/rojouno/install.log'

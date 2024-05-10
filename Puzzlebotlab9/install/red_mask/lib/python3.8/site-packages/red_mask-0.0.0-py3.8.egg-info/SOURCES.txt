@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/red_mask/red_mask.egg-info/PKG-INFO
+../build/red_mask/red_mask.egg-info/SOURCES.txt
+../build/red_mask/red_mask.egg-info/dependency_links.txt
+../build/red_mask/red_mask.egg-info/entry_points.txt
+../build/red_mask/red_mask.egg-info/requires.txt
+../build/red_mask/red_mask.egg-info/top_level.txt
+../build/red_mask/red_mask.egg-info/zip-safe
+red_mask/__init__.py
+red_mask/red_mask.py
+resource/red_mask
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,37 @@
+[6.789s] Invoking command in '/home/puzzlebot/ros2_ws/src/red_mask': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/red_mask/prefix_override:/home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/red_mask build --build-base /home/puzzlebot/ros2_ws/src/build/red_mask/build install --record /home/puzzlebot/ros2_ws/src/build/red_mask/install.log --single-version-externally-managed
+[8.183s] running egg_info
+[8.185s] creating ../build/red_mask/red_mask.egg-info
+[8.186s] writing ../build/red_mask/red_mask.egg-info/PKG-INFO
+[8.187s] writing dependency_links to ../build/red_mask/red_mask.egg-info/dependency_links.txt
+[8.188s] writing entry points to ../build/red_mask/red_mask.egg-info/entry_points.txt
+[8.189s] writing requirements to ../build/red_mask/red_mask.egg-info/requires.txt
+[8.189s] writing top-level names to ../build/red_mask/red_mask.egg-info/top_level.txt
+[8.190s] writing manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+[8.363s] reading manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+[8.367s] writing manifest file '../build/red_mask/red_mask.egg-info/SOURCES.txt'
+[8.368s] running build
+[8.368s] running build_py
+[8.369s] creating /home/puzzlebot/ros2_ws/src/build/red_mask/build
+[8.369s] creating /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib
+[8.370s] creating /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+[8.370s] copying red_mask/__init__.py -> /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+[8.370s] copying red_mask/red_mask.py -> /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask
+[8.371s] running install
+[8.376s] running install_lib
+[8.378s] creating /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+[8.379s] copying /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask/__init__.py -> /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+[8.379s] copying /home/puzzlebot/ros2_ws/src/build/red_mask/build/lib/red_mask/red_mask.py -> /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask
+[8.383s] byte-compiling /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask/__init__.py to __init__.cpython-38.pyc
+[8.389s] byte-compiling /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask/red_mask.py to red_mask.cpython-38.pyc
+[8.391s] running install_data
+[8.394s] creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index
+[8.394s] creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index
+[8.395s] creating /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index/packages
+[8.395s] copying resource/red_mask -> /home/puzzlebot/ros2_ws/src/install/red_mask/share/ament_index/resource_index/packages
+[8.395s] copying package.xml -> /home/puzzlebot/ros2_ws/src/install/red_mask/share/red_mask
+[8.396s] running install_egg_info
+[8.406s] Copying ../build/red_mask/red_mask.egg-info to /home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages/red_mask-0.0.0-py3.8.egg-info
+[8.410s] running install_scripts
+[8.492s] Installing red_mask script to /home/puzzlebot/ros2_ws/src/install/red_mask/lib/red_mask
+[8.493s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/red_mask/install.log'
+[8.601s] Invoked command in '/home/puzzlebot/ros2_ws/src/red_mask' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/red_mask/prefix_override:/home/puzzlebot/ros2_ws/src/install/red_mask/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/red_mask build --build-base /home/puzzlebot/ros2_ws/src/build/red_mask/build install --record /home/puzzlebot/ros2_ws/src/build/red_mask/install.log --single-version-externally-managed

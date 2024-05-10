@@ -1,0 +1,3 @@
+[console_scripts]
+red_mask = red_mask.red_mask:main
+

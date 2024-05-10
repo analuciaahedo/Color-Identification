@@ -1,0 +1,3 @@
+[console_scripts]
+rojog = rojog.rojog:main
+

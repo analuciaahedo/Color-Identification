@@ -1,0 +1,349 @@
+[0.000000] (-) TimerEvent: {}
+[0.000539] (color_identification) JobQueued: {'identifier': 'color_identification', 'dependencies': OrderedDict()}
+[0.001085] (odometry) JobQueued: {'identifier': 'odometry', 'dependencies': OrderedDict()}
+[0.001370] (puzzlebot_ros) JobQueued: {'identifier': 'puzzlebot_ros', 'dependencies': OrderedDict()}
+[0.003060] (reduno) JobQueued: {'identifier': 'reduno', 'dependencies': OrderedDict()}
+[0.003180] (color_identification) JobStarted: {'identifier': 'color_identification'}
+[0.099238] (-) TimerEvent: {}
+[0.204777] (-) TimerEvent: {}
+[0.308021] (-) TimerEvent: {}
+[0.413309] (-) TimerEvent: {}
+[0.514979] (-) TimerEvent: {}
+[0.615738] (-) TimerEvent: {}
+[0.717412] (-) TimerEvent: {}
+[0.819596] (-) TimerEvent: {}
+[0.920208] (-) TimerEvent: {}
+[1.021767] (-) TimerEvent: {}
+[1.127685] (-) TimerEvent: {}
+[1.228986] (-) TimerEvent: {}
+[1.331330] (-) TimerEvent: {}
+[1.431910] (-) TimerEvent: {}
+[1.532840] (-) TimerEvent: {}
+[1.559088] (odometry) JobStarted: {'identifier': 'odometry'}
+[1.633366] (-) TimerEvent: {}
+[1.734715] (-) TimerEvent: {}
+[1.835440] (-) TimerEvent: {}
+[1.937822] (-) TimerEvent: {}
+[2.040523] (-) TimerEvent: {}
+[2.143105] (-) TimerEvent: {}
+[2.247022] (-) TimerEvent: {}
+[2.349398] (-) TimerEvent: {}
+[2.457874] (-) TimerEvent: {}
+[2.562461] (-) TimerEvent: {}
+[2.663113] (-) TimerEvent: {}
+[2.763719] (-) TimerEvent: {}
+[2.865568] (-) TimerEvent: {}
+[2.969795] (-) TimerEvent: {}
+[3.074821] (-) TimerEvent: {}
+[3.115347] (puzzlebot_ros) JobStarted: {'identifier': 'puzzlebot_ros'}
+[3.175643] (-) TimerEvent: {}
+[3.278753] (-) TimerEvent: {}
+[3.379885] (-) TimerEvent: {}
+[3.480607] (-) TimerEvent: {}
+[3.586639] (-) TimerEvent: {}
+[3.689867] (-) TimerEvent: {}
+[3.795148] (-) TimerEvent: {}
+[3.896593] (-) TimerEvent: {}
+[3.999898] (-) TimerEvent: {}
+[4.101873] (-) TimerEvent: {}
+[4.206540] (-) TimerEvent: {}
+[4.307911] (-) TimerEvent: {}
+[4.413405] (-) TimerEvent: {}
+[4.516452] (-) TimerEvent: {}
+[4.621164] (-) TimerEvent: {}
+[4.657035] (reduno) JobStarted: {'identifier': 'reduno'}
+[4.722431] (-) TimerEvent: {}
+[4.828750] (-) TimerEvent: {}
+[4.930959] (-) TimerEvent: {}
+[5.035266] (-) TimerEvent: {}
+[5.181507] (-) TimerEvent: {}
+[5.287098] (-) TimerEvent: {}
+[5.390857] (-) TimerEvent: {}
+[5.493964] (-) TimerEvent: {}
+[5.599119] (-) TimerEvent: {}
+[5.703886] (-) TimerEvent: {}
+[5.807666] (-) TimerEvent: {}
+[5.909452] (-) TimerEvent: {}
+[6.014904] (-) TimerEvent: {}
+[6.118675] (-) TimerEvent: {}
+[6.221428] (-) TimerEvent: {}
+[6.323226] (-) TimerEvent: {}
+[6.424126] (-) TimerEvent: {}
+[6.524761] (-) TimerEvent: {}
+[6.625460] (-) TimerEvent: {}
+[6.726136] (-) TimerEvent: {}
+[6.826769] (-) TimerEvent: {}
+[6.927403] (-) TimerEvent: {}
+[7.028100] (-) TimerEvent: {}
+[7.128798] (-) TimerEvent: {}
+[7.229501] (-) TimerEvent: {}
+[7.330161] (-) TimerEvent: {}
+[7.430778] (-) TimerEvent: {}
+[7.532736] (-) TimerEvent: {}
+[7.633880] (-) TimerEvent: {}
+[7.737887] (-) TimerEvent: {}
+[7.840267] (-) TimerEvent: {}
+[7.944170] (-) TimerEvent: {}
+[8.046221] (-) TimerEvent: {}
+[8.148502] (-) TimerEvent: {}
+[8.250800] (-) TimerEvent: {}
+[8.351831] (-) TimerEvent: {}
+[8.455794] (-) TimerEvent: {}
+[8.557028] (-) TimerEvent: {}
+[8.665308] (-) TimerEvent: {}
+[8.767569] (-) TimerEvent: {}
+[8.868524] (-) TimerEvent: {}
+[8.969229] (-) TimerEvent: {}
+[9.069993] (-) TimerEvent: {}
+[9.170691] (-) TimerEvent: {}
+[9.271381] (-) TimerEvent: {}
+[9.372061] (-) TimerEvent: {}
+[9.472749] (-) TimerEvent: {}
+[9.573431] (-) TimerEvent: {}
+[9.674141] (-) TimerEvent: {}
+[9.774774] (-) TimerEvent: {}
+[9.875500] (-) TimerEvent: {}
+[9.976388] (-) TimerEvent: {}
+[10.077413] (-) TimerEvent: {}
+[10.178742] (-) TimerEvent: {}
+[10.282379] (-) TimerEvent: {}
+[10.383373] (-) TimerEvent: {}
+[10.486745] (-) TimerEvent: {}
+[10.588392] (-) TimerEvent: {}
+[10.689501] (-) TimerEvent: {}
+[10.791579] (-) TimerEvent: {}
+[10.892201] (-) TimerEvent: {}
+[10.994193] (-) TimerEvent: {}
+[11.096034] (-) TimerEvent: {}
+[11.200751] (-) TimerEvent: {}
+[11.304371] (-) TimerEvent: {}
+[11.405321] (-) TimerEvent: {}
+[11.506038] (-) TimerEvent: {}
+[11.606694] (-) TimerEvent: {}
+[11.707367] (-) TimerEvent: {}
+[11.808062] (-) TimerEvent: {}
+[11.908764] (-) TimerEvent: {}
+[12.009389] (-) TimerEvent: {}
+[12.110095] (-) TimerEvent: {}
+[12.210743] (-) TimerEvent: {}
+[12.311398] (-) TimerEvent: {}
+[12.412044] (-) TimerEvent: {}
+[12.513434] (-) TimerEvent: {}
+[12.616619] (-) TimerEvent: {}
+[12.722015] (-) TimerEvent: {}
+[12.827368] (-) TimerEvent: {}
+[12.930005] (-) TimerEvent: {}
+[13.035141] (-) TimerEvent: {}
+[13.139286] (-) TimerEvent: {}
+[13.241311] (-) TimerEvent: {}
+[13.345183] (-) TimerEvent: {}
+[13.450694] (-) TimerEvent: {}
+[13.554994] (-) TimerEvent: {}
+[13.656464] (-) TimerEvent: {}
+[13.758287] (-) TimerEvent: {}
+[13.859445] (-) TimerEvent: {}
+[13.960316] (-) TimerEvent: {}
+[14.060954] (-) TimerEvent: {}
+[14.161686] (-) TimerEvent: {}
+[14.262401] (-) TimerEvent: {}
+[14.363033] (-) TimerEvent: {}
+[14.463675] (-) TimerEvent: {}
+[14.564310] (-) TimerEvent: {}
+[14.664992] (-) TimerEvent: {}
+[14.765705] (-) TimerEvent: {}
+[14.866397] (-) TimerEvent: {}
+[14.967053] (-) TimerEvent: {}
+[15.067699] (-) TimerEvent: {}
+[15.168969] (-) TimerEvent: {}
+[15.272184] (-) TimerEvent: {}
+[15.373827] (-) TimerEvent: {}
+[15.475069] (-) TimerEvent: {}
+[15.576647] (-) TimerEvent: {}
+[15.678354] (-) TimerEvent: {}
+[15.779982] (-) TimerEvent: {}
+[15.882041] (-) TimerEvent: {}
+[15.987993] (-) TimerEvent: {}
+[16.089304] (-) TimerEvent: {}
+[16.190758] (-) TimerEvent: {}
+[16.294174] (-) TimerEvent: {}
+[16.396158] (-) TimerEvent: {}
+[16.498611] (-) TimerEvent: {}
+[16.600522] (-) TimerEvent: {}
+[16.703252] (-) TimerEvent: {}
+[16.804933] (-) TimerEvent: {}
+[16.906049] (-) TimerEvent: {}
+[17.007023] (-) TimerEvent: {}
+[17.107781] (-) TimerEvent: {}
+[17.210707] (-) TimerEvent: {}
+[17.311781] (-) TimerEvent: {}
+[17.412868] (-) TimerEvent: {}
+[17.514016] (-) TimerEvent: {}
+[17.615092] (-) TimerEvent: {}
+[17.716122] (-) TimerEvent: {}
+[17.817243] (-) TimerEvent: {}
+[17.918294] (-) TimerEvent: {}
+[18.019335] (-) TimerEvent: {}
+[18.120490] (-) TimerEvent: {}
+[18.221546] (-) TimerEvent: {}
+[18.322666] (-) TimerEvent: {}
+[18.423697] (-) TimerEvent: {}
+[18.524770] (-) TimerEvent: {}
+[18.625869] (-) TimerEvent: {}
+[18.726985] (-) TimerEvent: {}
+[18.827713] (-) TimerEvent: {}
+[18.928428] (-) TimerEvent: {}
+[19.029139] (-) TimerEvent: {}
+[19.130236] (-) TimerEvent: {}
+[19.231278] (-) TimerEvent: {}
+[19.332014] (-) TimerEvent: {}
+[19.433085] (-) TimerEvent: {}
+[19.534268] (-) TimerEvent: {}
+[19.570658] (reduno) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/reduno', 'build', '--build-base', '/home/puzzlebot/ros2_ws/src/build/reduno/build', 'install', '--record', '/home/puzzlebot/ros2_ws/src/build/reduno/install.log', '--single-version-externally-managed'], 'cwd': '/home/puzzlebot/ros2_ws/src/reduno', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_GB:en', 'USER': 'puzzlebot', 'SSH_CLIENT': '10.42.0.162 55094 22', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent/lib:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/puzzlebot', 'OLDPWD': '/home/puzzlebot', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'es_MX.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install:/home/puzzlebot/ros2_ws/install:/home/puzzlebot/ros2_packages_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'puzzlebot', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '9', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/puzzlebot/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'es_MX.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_GB.UTF-8', 'LC_TELEPHONE': 'es_MX.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install/pruebared:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/src/install/odometry:/home/puzzlebot/ros2_ws/src/install/colorid:/home/puzzlebot/ros2_ws/src/install/colori:/home/puzzlebot/ros2_ws/src/install/colored:/home/puzzlebot/ros2_ws/src/install/color_identification:/home/puzzlebot/ros2_ws/src/install/color:/home/puzzlebot/ros2_ws/src/install/blue:/home/puzzlebot/ros2_ws/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/install/colorid:/home/puzzlebot/ros2_ws/install/colori:/home/puzzlebot/ros2_ws/install/color_identification:/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'PWD': '/home/puzzlebot/ros2_ws/src/build/reduno', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '10.42.0.162 55094 10.42.0.1 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/puzzlebot/ros2_ws/src/build/reduno/prefix_override:/home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/pruebared/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colored/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib/python3.8/site-packages:/opt/ros/humble/lib/python3.8/site-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher'}, 'shell': False}
+[19.636513] (-) TimerEvent: {}
+[19.737809] (-) TimerEvent: {}
+[19.768483] (color_identification) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/color_identification', 'build', '--build-base', '/home/puzzlebot/ros2_ws/src/build/color_identification/build', 'install', '--record', '/home/puzzlebot/ros2_ws/src/build/color_identification/install.log', '--single-version-externally-managed'], 'cwd': '/home/puzzlebot/ros2_ws/src/color_identification', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_GB:en', 'USER': 'puzzlebot', 'SSH_CLIENT': '10.42.0.162 55094 22', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent/lib:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/puzzlebot', 'OLDPWD': '/home/puzzlebot', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'es_MX.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install:/home/puzzlebot/ros2_ws/install:/home/puzzlebot/ros2_packages_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'puzzlebot', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '9', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/puzzlebot/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'es_MX.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_GB.UTF-8', 'LC_TELEPHONE': 'es_MX.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install/pruebared:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/src/install/odometry:/home/puzzlebot/ros2_ws/src/install/colorid:/home/puzzlebot/ros2_ws/src/install/colori:/home/puzzlebot/ros2_ws/src/install/colored:/home/puzzlebot/ros2_ws/src/install/color_identification:/home/puzzlebot/ros2_ws/src/install/color:/home/puzzlebot/ros2_ws/src/install/blue:/home/puzzlebot/ros2_ws/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/install/colorid:/home/puzzlebot/ros2_ws/install/colori:/home/puzzlebot/ros2_ws/install/color_identification:/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'PWD': '/home/puzzlebot/ros2_ws/src/build/color_identification', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '10.42.0.162 55094 10.42.0.1 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/puzzlebot/ros2_ws/src/build/color_identification/prefix_override:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/pruebared/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colored/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib/python3.8/site-packages:/opt/ros/humble/lib/python3.8/site-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher'}, 'shell': False}
+[19.838151] (-) TimerEvent: {}
+[19.939139] (-) TimerEvent: {}
+[19.996687] (puzzlebot_ros) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/puzzlebot_ros', 'build', '--build-base', '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/build', 'install', '--record', '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/install.log', '--single-version-externally-managed'], 'cwd': '/home/puzzlebot/ros2_ws/src/puzzlebot_ros', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_GB:en', 'USER': 'puzzlebot', 'SSH_CLIENT': '10.42.0.162 55094 22', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent/lib:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/puzzlebot', 'OLDPWD': '/home/puzzlebot', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'es_MX.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install:/home/puzzlebot/ros2_ws/install:/home/puzzlebot/ros2_packages_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'puzzlebot', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '9', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/puzzlebot/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'es_MX.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_GB.UTF-8', 'LC_TELEPHONE': 'es_MX.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install/pruebared:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/src/install/odometry:/home/puzzlebot/ros2_ws/src/install/colorid:/home/puzzlebot/ros2_ws/src/install/colori:/home/puzzlebot/ros2_ws/src/install/colored:/home/puzzlebot/ros2_ws/src/install/color_identification:/home/puzzlebot/ros2_ws/src/install/color:/home/puzzlebot/ros2_ws/src/install/blue:/home/puzzlebot/ros2_ws/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/install/colorid:/home/puzzlebot/ros2_ws/install/colori:/home/puzzlebot/ros2_ws/install/color_identification:/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'PWD': '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '10.42.0.162 55094 10.42.0.1 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/prefix_override:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/pruebared/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colored/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib/python3.8/site-packages:/opt/ros/humble/lib/python3.8/site-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher'}, 'shell': False}
+[20.039401] (-) TimerEvent: {}
+[20.140337] (-) TimerEvent: {}
+[20.228057] (odometry) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/odometry', 'build', '--build-base', '/home/puzzlebot/ros2_ws/src/build/odometry/build', 'install', '--record', '/home/puzzlebot/ros2_ws/src/build/odometry/install.log', '--single-version-externally-managed'], 'cwd': '/home/puzzlebot/ros2_ws/src/odometry', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_GB:en', 'USER': 'puzzlebot', 'SSH_CLIENT': '10.42.0.162 55094 22', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent/lib:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/puzzlebot', 'OLDPWD': '/home/puzzlebot', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'es_MX.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install:/home/puzzlebot/ros2_ws/install:/home/puzzlebot/ros2_packages_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'puzzlebot', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '9', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/puzzlebot/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'es_MX.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_GB.UTF-8', 'LC_TELEPHONE': 'es_MX.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/puzzlebot/ros2_ws/src/install/pruebared:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/src/install/odometry:/home/puzzlebot/ros2_ws/src/install/colorid:/home/puzzlebot/ros2_ws/src/install/colori:/home/puzzlebot/ros2_ws/src/install/colored:/home/puzzlebot/ros2_ws/src/install/color_identification:/home/puzzlebot/ros2_ws/src/install/color:/home/puzzlebot/ros2_ws/src/install/blue:/home/puzzlebot/ros2_ws/install/puzzlebot_ros:/home/puzzlebot/ros2_ws/install/colorid:/home/puzzlebot/ros2_ws/install/colori:/home/puzzlebot/ros2_ws/install/color_identification:/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'PWD': '/home/puzzlebot/ros2_ws/src/build/odometry', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '10.42.0.162 55094 10.42.0.1 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/puzzlebot/ros2_ws/src/build/odometry/prefix_override:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/pruebared/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/colored/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/color/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/puzzlebot_ros/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colorid/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/colori/lib/python3.8/site-packages:/home/puzzlebot/ros2_ws/install/color_identification/lib/python3.8/site-packages:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs/lib/python3.8/site-packages:/opt/ros/humble/lib/python3.8/site-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/puzzlebot/ros2_packages_ws/install/ros_deep_learning:/home/puzzlebot/ros2_packages_ws/install/micro_ros_setup:/home/puzzlebot/ros2_packages_ws/install/micro_ros_agent:/home/puzzlebot/ros2_packages_ws/install/micro_ros_msgs:/home/puzzlebot/ros2_packages_ws/install/camera_info_publisher'}, 'shell': False}
+[20.240646] (-) TimerEvent: {}
+[20.342040] (-) TimerEvent: {}
+[20.443110] (-) TimerEvent: {}
+[20.544052] (-) TimerEvent: {}
+[20.654015] (-) TimerEvent: {}
+[20.755091] (-) TimerEvent: {}
+[20.855776] (-) TimerEvent: {}
+[20.956823] (-) TimerEvent: {}
+[21.057521] (-) TimerEvent: {}
+[21.158617] (-) TimerEvent: {}
+[21.259680] (-) TimerEvent: {}
+[21.314999] (reduno) StdoutLine: {'line': b'running egg_info\n'}
+[21.317688] (reduno) StdoutLine: {'line': b'writing ../build/reduno/reduno.egg-info/PKG-INFO\n'}
+[21.331856] (reduno) StdoutLine: {'line': b'writing dependency_links to ../build/reduno/reduno.egg-info/dependency_links.txt\n'}
+[21.332622] (reduno) StdoutLine: {'line': b'writing entry points to ../build/reduno/reduno.egg-info/entry_points.txt\n'}
+[21.333272] (reduno) StdoutLine: {'line': b'writing requirements to ../build/reduno/reduno.egg-info/requires.txt\n'}
+[21.333670] (reduno) StdoutLine: {'line': b'writing top-level names to ../build/reduno/reduno.egg-info/top_level.txt\n'}
+[21.359846] (-) TimerEvent: {}
+[21.410294] (color_identification) StdoutLine: {'line': b'running egg_info\n'}
+[21.413165] (color_identification) StdoutLine: {'line': b'writing ../build/color_identification/color_identification.egg-info/PKG-INFO\n'}
+[21.413943] (color_identification) StdoutLine: {'line': b'writing dependency_links to ../build/color_identification/color_identification.egg-info/dependency_links.txt\n'}
+[21.414580] (color_identification) StdoutLine: {'line': b'writing entry points to ../build/color_identification/color_identification.egg-info/entry_points.txt\n'}
+[21.415189] (color_identification) StdoutLine: {'line': b'writing requirements to ../build/color_identification/color_identification.egg-info/requires.txt\n'}
+[21.416415] (color_identification) StdoutLine: {'line': b'writing top-level names to ../build/color_identification/color_identification.egg-info/top_level.txt\n'}
+[21.460009] (-) TimerEvent: {}
+[21.560724] (-) TimerEvent: {}
+[21.571613] (reduno) StdoutLine: {'line': b"reading manifest file '../build/reduno/reduno.egg-info/SOURCES.txt'\n"}
+[21.577651] (reduno) StdoutLine: {'line': b"writing manifest file '../build/reduno/reduno.egg-info/SOURCES.txt'\n"}
+[21.578498] (reduno) StdoutLine: {'line': b'running build\n'}
+[21.578938] (reduno) StdoutLine: {'line': b'running build_py\n'}
+[21.579504] (reduno) StdoutLine: {'line': b'copying reduno/reduno.py -> /home/puzzlebot/ros2_ws/src/build/reduno/build/lib/reduno\n'}
+[21.580157] (reduno) StdoutLine: {'line': b'running install\n'}
+[21.584836] (reduno) StdoutLine: {'line': b'running install_lib\n'}
+[21.592242] (reduno) StdoutLine: {'line': b'copying /home/puzzlebot/ros2_ws/src/build/reduno/build/lib/reduno/reduno.py -> /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno\n'}
+[21.595177] (color_identification) StdoutLine: {'line': b"reading manifest file '../build/color_identification/color_identification.egg-info/SOURCES.txt'\n"}
+[21.596116] (reduno) StdoutLine: {'line': b'byte-compiling /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno/reduno.py to reduno.cpython-38.pyc\n'}
+[21.600799] (color_identification) StdoutLine: {'line': b"writing manifest file '../build/color_identification/color_identification.egg-info/SOURCES.txt'\n"}
+[21.602000] (color_identification) StdoutLine: {'line': b'running build\n'}
+[21.602868] (color_identification) StdoutLine: {'line': b'running build_py\n'}
+[21.603794] (reduno) StdoutLine: {'line': b'running install_data\n'}
+[21.605750] (color_identification) StdoutLine: {'line': b'running install\n'}
+[21.608691] (reduno) StdoutLine: {'line': b'running install_egg_info\n'}
+[21.609558] (color_identification) StdoutLine: {'line': b'running install_lib\n'}
+[21.616765] (color_identification) StdoutLine: {'line': b'running install_data\n'}
+[21.618786] (reduno) StdoutLine: {'line': b"removing '/home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[21.619558] (color_identification) StdoutLine: {'line': b'running install_egg_info\n'}
+[21.620227] (reduno) StdoutLine: {'line': b'Copying ../build/reduno/reduno.egg-info to /home/puzzlebot/ros2_ws/src/install/reduno/lib/python3.8/site-packages/reduno-0.0.0-py3.8.egg-info\n'}
+[21.624088] (reduno) StdoutLine: {'line': b'running install_scripts\n'}
+[21.627210] (color_identification) StdoutLine: {'line': b"removing '/home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages/color_identification-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[21.629511] (color_identification) StdoutLine: {'line': b'Copying ../build/color_identification/color_identification.egg-info to /home/puzzlebot/ros2_ws/src/install/color_identification/lib/python3.8/site-packages/color_identification-0.0.0-py3.8.egg-info\n'}
+[21.634633] (color_identification) StdoutLine: {'line': b'running install_scripts\n'}
+[21.660902] (-) TimerEvent: {}
+[21.697058] (puzzlebot_ros) StdoutLine: {'line': b'running egg_info\n'}
+[21.712316] (puzzlebot_ros) StdoutLine: {'line': b'writing ../build/puzzlebot_ros/puzzlebot_ros.egg-info/PKG-INFO\n'}
+[21.714460] (puzzlebot_ros) StdoutLine: {'line': b'writing dependency_links to ../build/puzzlebot_ros/puzzlebot_ros.egg-info/dependency_links.txt\n'}
+[21.715304] (puzzlebot_ros) StdoutLine: {'line': b'writing entry points to ../build/puzzlebot_ros/puzzlebot_ros.egg-info/entry_points.txt\n'}
+[21.718341] (color_identification) StdoutLine: {'line': b'Installing color_identification script to /home/puzzlebot/ros2_ws/src/install/color_identification/lib/color_identification\n'}
+[21.719108] (reduno) StdoutLine: {'line': b'Installing reduno script to /home/puzzlebot/ros2_ws/src/install/reduno/lib/reduno\n'}
+[21.719753] (puzzlebot_ros) StdoutLine: {'line': b'writing requirements to ../build/puzzlebot_ros/puzzlebot_ros.egg-info/requires.txt\n'}
+[21.720617] (puzzlebot_ros) StdoutLine: {'line': b'writing top-level names to ../build/puzzlebot_ros/puzzlebot_ros.egg-info/top_level.txt\n'}
+[21.721339] (reduno) StdoutLine: {'line': b"writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/reduno/install.log'\n"}
+[21.721875] (color_identification) StdoutLine: {'line': b"writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/color_identification/install.log'\n"}
+[21.761085] (-) TimerEvent: {}
+[21.842047] (color_identification) CommandEnded: {'returncode': 0}
+[21.861379] (-) TimerEvent: {}
+[21.900088] (odometry) StdoutLine: {'line': b'running egg_info\n'}
+[21.900991] (odometry) StdoutLine: {'line': b'writing ../build/odometry/odometry.egg-info/PKG-INFO\n'}
+[21.903179] (odometry) StdoutLine: {'line': b'writing dependency_links to ../build/odometry/odometry.egg-info/dependency_links.txt\n'}
+[21.903904] (odometry) StdoutLine: {'line': b'writing entry points to ../build/odometry/odometry.egg-info/entry_points.txt\n'}
+[21.904397] (odometry) StdoutLine: {'line': b'writing requirements to ../build/odometry/odometry.egg-info/requires.txt\n'}
+[21.904928] (odometry) StdoutLine: {'line': b'writing top-level names to ../build/odometry/odometry.egg-info/top_level.txt\n'}
+[21.962565] (-) TimerEvent: {}
+[21.964938] (puzzlebot_ros) StdoutLine: {'line': b"reading manifest file '../build/puzzlebot_ros/puzzlebot_ros.egg-info/SOURCES.txt'\n"}
+[21.970192] (puzzlebot_ros) StdoutLine: {'line': b"writing manifest file '../build/puzzlebot_ros/puzzlebot_ros.egg-info/SOURCES.txt'\n"}
+[21.970711] (puzzlebot_ros) StdoutLine: {'line': b'running build\n'}
+[21.971120] (puzzlebot_ros) StdoutLine: {'line': b'running build_py\n'}
+[21.974981] (puzzlebot_ros) StdoutLine: {'line': b'running install\n'}
+[21.978679] (puzzlebot_ros) StdoutLine: {'line': b'running install_lib\n'}
+[21.987419] (puzzlebot_ros) StdoutLine: {'line': b'running install_data\n'}
+[21.991557] (puzzlebot_ros) StdoutLine: {'line': b'running install_egg_info\n'}
+[21.998928] (puzzlebot_ros) StdoutLine: {'line': b"removing '/home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages/puzzlebot_ros-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[21.999639] (puzzlebot_ros) StdoutLine: {'line': b'Copying ../build/puzzlebot_ros/puzzlebot_ros.egg-info to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/python3.8/site-packages/puzzlebot_ros-0.0.0-py3.8.egg-info\n'}
+[22.004194] (puzzlebot_ros) StdoutLine: {'line': b'running install_scripts\n'}
+[22.063654] (-) TimerEvent: {}
+[22.079340] (odometry) StdoutLine: {'line': b"reading manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'\n"}
+[22.081982] (puzzlebot_ros) StdoutLine: {'line': b'Installing distance_control script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.082529] (puzzlebot_ros) StdoutLine: {'line': b'Installing goto_point script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.082963] (puzzlebot_ros) StdoutLine: {'line': b'Installing kalman script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.083597] (puzzlebot_ros) StdoutLine: {'line': b'Installing kalman_aruco script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.084016] (puzzlebot_ros) StdoutLine: {'line': b'Installing pwm_control script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.084415] (puzzlebot_ros) StdoutLine: {'line': b'Installing test_imu script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.084936] (puzzlebot_ros) StdoutLine: {'line': b'Installing velocity_control script to /home/puzzlebot/ros2_ws/src/install/puzzlebot_ros/lib/puzzlebot_ros\n'}
+[22.085540] (odometry) StdoutLine: {'line': b"writing manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'\n"}
+[22.086187] (odometry) StdoutLine: {'line': b'running build\n'}
+[22.086689] (odometry) StdoutLine: {'line': b'running build_py\n'}
+[22.087364] (puzzlebot_ros) StdoutLine: {'line': b"writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/puzzlebot_ros/install.log'\n"}
+[22.087872] (odometry) StdoutLine: {'line': b'running install\n'}
+[22.092245] (odometry) StdoutLine: {'line': b'running install_lib\n'}
+[22.100496] (odometry) StdoutLine: {'line': b'running install_data\n'}
+[22.103587] (odometry) StdoutLine: {'line': b'running install_egg_info\n'}
+[22.112991] (odometry) StdoutLine: {'line': b"removing '/home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[22.114572] (odometry) StdoutLine: {'line': b'Copying ../build/odometry/odometry.egg-info to /home/puzzlebot/ros2_ws/src/install/odometry/lib/python3.8/site-packages/odometry-0.0.0-py3.8.egg-info\n'}
+[22.120099] (odometry) StdoutLine: {'line': b'running install_scripts\n'}
+[22.163911] (-) TimerEvent: {}
+[22.209879] (odometry) StdoutLine: {'line': b'Installing odometry script to /home/puzzlebot/ros2_ws/src/install/odometry/lib/odometry\n'}
+[22.210868] (odometry) StdoutLine: {'line': b"writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/odometry/install.log'\n"}
+[22.264388] (-) TimerEvent: {}
+[22.367484] (-) TimerEvent: {}
+[22.472014] (-) TimerEvent: {}
+[22.575237] (-) TimerEvent: {}
+[22.677407] (-) TimerEvent: {}
+[22.693395] (color_identification) JobEnded: {'identifier': 'color_identification', 'rc': 0}
+[22.698032] (reduno) CommandEnded: {'returncode': 0}
+[22.778446] (-) TimerEvent: {}
+[22.884315] (-) TimerEvent: {}
+[22.987854] (-) TimerEvent: {}
+[23.089627] (-) TimerEvent: {}
+[23.196622] (-) TimerEvent: {}
+[23.299449] (-) TimerEvent: {}
+[23.386046] (reduno) JobEnded: {'identifier': 'reduno', 'rc': 0}
+[23.387286] (puzzlebot_ros) CommandEnded: {'returncode': 0}
+[23.404181] (-) TimerEvent: {}
+[23.505832] (-) TimerEvent: {}
+[23.608075] (-) TimerEvent: {}
+[23.709069] (-) TimerEvent: {}
+[23.813474] (-) TimerEvent: {}
+[23.919149] (-) TimerEvent: {}
+[24.027366] (-) TimerEvent: {}
+[24.073363] (puzzlebot_ros) JobEnded: {'identifier': 'puzzlebot_ros', 'rc': 0}
+[24.074618] (odometry) CommandEnded: {'returncode': 0}
+[24.128857] (-) TimerEvent: {}
+[24.232535] (-) TimerEvent: {}
+[24.335068] (-) TimerEvent: {}
+[24.436346] (-) TimerEvent: {}
+[24.537012] (-) TimerEvent: {}
+[24.637749] (-) TimerEvent: {}
+[24.741541] (-) TimerEvent: {}
+[24.789679] (odometry) JobEnded: {'identifier': 'odometry', 'rc': 0}
+[24.792799] (-) EventReactorShutdown: {}

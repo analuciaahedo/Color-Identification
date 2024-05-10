@@ -1,0 +1,24 @@
+[15.431s] Invoking command in '/home/puzzlebot/ros2_ws/src/blue': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/blue/prefix_override:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/blue build --build-base /home/puzzlebot/ros2_ws/src/build/blue/build install --record /home/puzzlebot/ros2_ws/src/build/blue/install.log --single-version-externally-managed
+[16.608s] running egg_info
+[16.610s] writing ../build/blue/blue.egg-info/PKG-INFO
+[16.612s] writing dependency_links to ../build/blue/blue.egg-info/dependency_links.txt
+[16.613s] writing entry points to ../build/blue/blue.egg-info/entry_points.txt
+[16.615s] writing requirements to ../build/blue/blue.egg-info/requires.txt
+[16.616s] writing top-level names to ../build/blue/blue.egg-info/top_level.txt
+[16.789s] reading manifest file '../build/blue/blue.egg-info/SOURCES.txt'
+[16.794s] writing manifest file '../build/blue/blue.egg-info/SOURCES.txt'
+[16.795s] running build
+[16.795s] running build_py
+[16.797s] copying blue/blue.py -> /home/puzzlebot/ros2_ws/src/build/blue/build/lib/blue
+[16.798s] running install
+[16.802s] running install_lib
+[16.807s] copying /home/puzzlebot/ros2_ws/src/build/blue/build/lib/blue/blue.py -> /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue
+[16.811s] byte-compiling /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue/blue.py to blue.cpython-38.pyc
+[16.818s] running install_data
+[16.820s] running install_egg_info
+[16.830s] removing '/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue-0.0.0-py3.8.egg-info' (and everything under it)
+[16.832s] Copying ../build/blue/blue.egg-info to /home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages/blue-0.0.0-py3.8.egg-info
+[16.837s] running install_scripts
+[16.919s] Installing blue script to /home/puzzlebot/ros2_ws/src/install/blue/lib/blue
+[16.921s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/blue/install.log'
+[17.040s] Invoked command in '/home/puzzlebot/ros2_ws/src/blue' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/blue/prefix_override:/home/puzzlebot/ros2_ws/src/install/blue/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/blue build --build-base /home/puzzlebot/ros2_ws/src/build/blue/build install --record /home/puzzlebot/ros2_ws/src/build/blue/install.log --single-version-externally-managed

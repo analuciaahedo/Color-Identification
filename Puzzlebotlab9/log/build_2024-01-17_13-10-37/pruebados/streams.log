@@ -1,0 +1,24 @@
+[13.108s] Invoking command in '/home/puzzlebot/ros2_ws/src/pruebados': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/pruebados/prefix_override:/home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/pruebados build --build-base /home/puzzlebot/ros2_ws/src/build/pruebados/build install --record /home/puzzlebot/ros2_ws/src/build/pruebados/install.log --single-version-externally-managed
+[14.307s] running egg_info
+[14.310s] writing ../build/pruebados/pruebados.egg-info/PKG-INFO
+[14.311s] writing dependency_links to ../build/pruebados/pruebados.egg-info/dependency_links.txt
+[14.312s] writing entry points to ../build/pruebados/pruebados.egg-info/entry_points.txt
+[14.312s] writing requirements to ../build/pruebados/pruebados.egg-info/requires.txt
+[14.313s] writing top-level names to ../build/pruebados/pruebados.egg-info/top_level.txt
+[14.485s] reading manifest file '../build/pruebados/pruebados.egg-info/SOURCES.txt'
+[14.489s] writing manifest file '../build/pruebados/pruebados.egg-info/SOURCES.txt'
+[14.490s] running build
+[14.491s] running build_py
+[14.493s] copying pruebados/pruebados.py -> /home/puzzlebot/ros2_ws/src/build/pruebados/build/lib/pruebados
+[14.494s] running install
+[14.499s] running install_lib
+[14.504s] copying /home/puzzlebot/ros2_ws/src/build/pruebados/build/lib/pruebados/pruebados.py -> /home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages/pruebados
+[14.507s] byte-compiling /home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages/pruebados/pruebados.py to pruebados.cpython-38.pyc
+[14.515s] running install_data
+[14.518s] running install_egg_info
+[14.528s] removing '/home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages/pruebados-0.0.0-py3.8.egg-info' (and everything under it)
+[14.530s] Copying ../build/pruebados/pruebados.egg-info to /home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages/pruebados-0.0.0-py3.8.egg-info
+[14.535s] running install_scripts
+[14.609s] Installing pruebados script to /home/puzzlebot/ros2_ws/src/install/pruebados/lib/pruebados
+[14.612s] writing list of installed files to '/home/puzzlebot/ros2_ws/src/build/pruebados/install.log'
+[14.731s] Invoked command in '/home/puzzlebot/ros2_ws/src/pruebados' returned '0': PYTHONPATH=/home/puzzlebot/ros2_ws/src/build/pruebados/prefix_override:/home/puzzlebot/ros2_ws/src/install/pruebados/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/pruebados build --build-base /home/puzzlebot/ros2_ws/src/build/pruebados/build install --record /home/puzzlebot/ros2_ws/src/build/pruebados/install.log --single-version-externally-managed

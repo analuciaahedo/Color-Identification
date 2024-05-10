@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/colori/colori.egg-info/PKG-INFO
+../build/colori/colori.egg-info/SOURCES.txt
+../build/colori/colori.egg-info/dependency_links.txt
+../build/colori/colori.egg-info/entry_points.txt
+../build/colori/colori.egg-info/requires.txt
+../build/colori/colori.egg-info/top_level.txt
+../build/colori/colori.egg-info/zip-safe
+colori/__init__.py
+colori/colori.py
+resource/colori
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

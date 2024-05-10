@@ -1,0 +1,6 @@
+source;share/rojo3p/hook/pythonpath.ps1
+source;share/rojo3p/hook/pythonpath.dsv
+source;share/rojo3p/hook/pythonpath.sh
+source;share/rojo3p/hook/ament_prefix_path.ps1
+source;share/rojo3p/hook/ament_prefix_path.dsv
+source;share/rojo3p/hook/ament_prefix_path.sh

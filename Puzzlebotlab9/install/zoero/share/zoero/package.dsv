@@ -1,0 +1,6 @@
+source;share/zoero/hook/pythonpath.ps1
+source;share/zoero/hook/pythonpath.dsv
+source;share/zoero/hook/pythonpath.sh
+source;share/zoero/hook/ament_prefix_path.ps1
+source;share/zoero/hook/ament_prefix_path.dsv
+source;share/zoero/hook/ament_prefix_path.sh

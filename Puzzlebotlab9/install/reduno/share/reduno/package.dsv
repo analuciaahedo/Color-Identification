@@ -1,0 +1,6 @@
+source;share/reduno/hook/pythonpath.ps1
+source;share/reduno/hook/pythonpath.dsv
+source;share/reduno/hook/pythonpath.sh
+source;share/reduno/hook/ament_prefix_path.ps1
+source;share/reduno/hook/ament_prefix_path.dsv
+source;share/reduno/hook/ament_prefix_path.sh

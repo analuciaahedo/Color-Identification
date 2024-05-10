@@ -1,0 +1,3 @@
+[console_scripts]
+rojop2p = rojop2p.rojop2p:main
+

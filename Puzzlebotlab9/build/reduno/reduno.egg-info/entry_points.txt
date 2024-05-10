@@ -1,0 +1,3 @@
+[console_scripts]
+reduno = reduno.reduno:main
+

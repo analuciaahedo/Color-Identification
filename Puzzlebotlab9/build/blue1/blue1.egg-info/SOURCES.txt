@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/blue1/blue1.egg-info/PKG-INFO
+../build/blue1/blue1.egg-info/SOURCES.txt
+../build/blue1/blue1.egg-info/dependency_links.txt
+../build/blue1/blue1.egg-info/entry_points.txt
+../build/blue1/blue1.egg-info/requires.txt
+../build/blue1/blue1.egg-info/top_level.txt
+../build/blue1/blue1.egg-info/zip-safe
+blue1/__init__.py
+blue1/blue1.py
+resource/blue1
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

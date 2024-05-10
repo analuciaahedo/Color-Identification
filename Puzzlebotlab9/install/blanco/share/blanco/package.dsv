@@ -1,0 +1,6 @@
+source;share/blanco/hook/pythonpath.ps1
+source;share/blanco/hook/pythonpath.dsv
+source;share/blanco/hook/pythonpath.sh
+source;share/blanco/hook/ament_prefix_path.ps1
+source;share/blanco/hook/ament_prefix_path.dsv
+source;share/blanco/hook/ament_prefix_path.sh

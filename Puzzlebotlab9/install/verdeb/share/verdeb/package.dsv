@@ -1,0 +1,6 @@
+source;share/verdeb/hook/pythonpath.ps1
+source;share/verdeb/hook/pythonpath.dsv
+source;share/verdeb/hook/pythonpath.sh
+source;share/verdeb/hook/ament_prefix_path.ps1
+source;share/verdeb/hook/ament_prefix_path.dsv
+source;share/verdeb/hook/ament_prefix_path.sh
